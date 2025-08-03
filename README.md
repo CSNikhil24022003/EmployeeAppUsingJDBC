@@ -48,18 +48,6 @@ A console-based **Employee Management Application** built using Java and JDBC, d
 
 5.Run App.java
 
-🖼️ Screenshots (optional)
-You can upload screenshots and show:
-
-Admin Login
-
-Menu options
-
-Exported files
-
-Console output
-
-
 -----------------------
 📁 Project Structure
 graphql
